@@ -1,2 +1,4 @@
 # TetrisGame
-Tetris Game. C lang.
+Tetris Game. Written on C.
+Requrements: ncurses.
+Build: make
